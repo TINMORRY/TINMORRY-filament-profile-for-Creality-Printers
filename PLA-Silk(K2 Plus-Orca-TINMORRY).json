@@ -1,0 +1,28 @@
+{
+    "filament_max_volumetric_speed": [
+        "8"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "PLA-Silk(K2 Plus-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Creality Generic PLA Silk @K2-all",
+    "is_custom_defined": "0",
+    "name": "PLA-Silk(K2 Plus-Orca-TINMORRY)",
+    "slow_down_layer_time": [
+        "15"
+    ],
+    "version": "2.2.0.4"
+}

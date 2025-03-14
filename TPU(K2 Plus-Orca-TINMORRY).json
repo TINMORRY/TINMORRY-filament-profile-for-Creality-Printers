@@ -1,0 +1,28 @@
+{
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_retraction_length": [
+        "1.4"
+    ],
+    "filament_settings_id": [
+        "TPU(K2 Plus-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "35"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "35"
+    ],
+    "inherits": "Creality Generic TPU @K2-all",
+    "is_custom_defined": "0",
+    "name": "TPU(K2 Plus-Orca-TINMORRY)",
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "2.2.0.4"
+}

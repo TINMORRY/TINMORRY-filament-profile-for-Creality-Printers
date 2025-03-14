@@ -1,0 +1,25 @@
+{
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_settings_id": [
+        "PLA(K2Plus-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Creality Generic PLA @K2-all",
+    "is_custom_defined": "0",
+    "name": "PLA(K2Plus-Orca-TINMORRY)",
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "version": "2.2.0.4"
+}
