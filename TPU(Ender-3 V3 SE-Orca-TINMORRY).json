@@ -1,0 +1,34 @@
+{
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_retraction_length": [
+        "1.5"
+    ],
+    "filament_settings_id": [
+        "TPU(Ender-3 V3 SE-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "35"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "35"
+    ],
+    "inherits": "Creality Generic TPU @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "TPU(Ender-3 V3 SE-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "version": "2.2.0.4"
+}
