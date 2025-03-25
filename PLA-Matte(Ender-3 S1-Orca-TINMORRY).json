@@ -1,0 +1,31 @@
+{
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_retraction_length": [
+        "1.2"
+    ],
+    "filament_settings_id": [
+        "PLA-Matte(Ender-3 S1-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA-Matte(Ender-3 S1-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "version": "2.2.0.4"
+}
