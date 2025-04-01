@@ -1,0 +1,31 @@
+{
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PLA-Matte(K1 Max-Orca-TINMORRY)"
+    ],
+    "filament_z_hop": [
+        "4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA-Matte(K1 Max-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "2.2.0.4"
+}

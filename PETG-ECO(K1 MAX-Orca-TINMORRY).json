@@ -1,0 +1,40 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PETG-ECO(K1 MAX-Orca-TINMORRY)"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PETG",
+    "is_custom_defined": "0",
+    "name": "PETG-ECO(K1 MAX-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "pressure_advance": [
+        "0.04"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "2.2.0.4"
+}

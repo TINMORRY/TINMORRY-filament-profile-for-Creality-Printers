@@ -1,0 +1,37 @@
+{
+    "compatible_printers": [
+        "Creality Hi 0.4 nozzle"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_retraction_length": [
+        "1.4"
+    ],
+    "filament_settings_id": [
+        "TPU(Creality Hi-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU @System",
+    "is_custom_defined": "0",
+    "name": "TPU(Creality Hi-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "textured_plate_temp": [
+        "40"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "40"
+    ],
+    "version": "2.3.0.3"
+}
