@@ -1,0 +1,40 @@
+{
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PETG-HS(Ender-3 V3 KE-Orca-TINMORRY)"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "75"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "75"
+    ],
+    "inherits": "Creality Generic PETG @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "PETG-HS(Ender-3 V3 KE-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "235"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "235"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "version": "2.3.0.3"
+}
