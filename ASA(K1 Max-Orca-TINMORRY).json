@@ -1,0 +1,25 @@
+{
+    "fan_max_speed": [
+        "50"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "ASA(K1 Max-Orca-TINMORRY)"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic ASA",
+    "is_custom_defined": "0",
+    "name": "ASA(K1 Max-Orca-TINMORRY)",
+    "version": "2.3.0.3"
+}
