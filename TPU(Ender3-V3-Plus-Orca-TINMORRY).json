@@ -1,0 +1,73 @@
+{
+    "cool_plate_temp": [
+        "45"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "45"
+    ],
+    "eng_plate_temp": [
+        "45"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "45"
+    ],
+    "filament_deretraction_speed": [
+        "35"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_retract_lift_above": [
+        "0"
+    ],
+    "filament_retraction_length": [
+        "1.4"
+    ],
+    "filament_retraction_speed": [
+        "35"
+    ],
+    "filament_settings_id": [
+        "TPU(Ender3-V3-Plus-Orca-TINMORRY)"
+    ],
+    "filament_z_hop": [
+        "0.12"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "45"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "45"
+    ],
+    "inherits": "Creality Generic TPU @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "TPU(Ender3-V3-Plus-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "supertack_plate_temp": [
+        "45"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "45"
+    ],
+    "textured_cool_plate_temp": [
+        "45"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "45"
+    ],
+    "textured_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "45"
+    ],
+    "version": "2.3.0.3"
+}
