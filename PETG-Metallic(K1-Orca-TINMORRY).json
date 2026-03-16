@@ -1,0 +1,49 @@
+{
+    "chamber_temperature": [
+        "35"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "70"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "PETG-Metallic(K1-Orca-TINMORRY)"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "TINMORRY PETG Metallic @Creality K1 (0.4 nozzle)",
+    "is_custom_defined": "0",
+    "name": "PETG-Metallic(K1-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "nozzle_temperature_range_low": [
+        "235"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "2.3.1.10"
+}
