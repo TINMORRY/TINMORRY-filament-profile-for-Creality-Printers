@@ -1,0 +1,66 @@
+{
+    "compatible_printers": [
+        "Creality Ender-3 V3 Plus 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "80"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "80"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "PETG-GF(Ender3 v3 Plus-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Bambu PETG-CF @System",
+    "name": "PETG-GF(Ender3 v3 Plus-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "2.3.2.60"
+}
